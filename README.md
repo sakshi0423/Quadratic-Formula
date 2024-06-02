@@ -8,6 +8,6 @@ Graphing, we get the curve below:
 
 The corresponding x values are the x-intercepts of the graph, while a, b, and c are constants.
 
-Write a C++ program called `quadratic.cpp` that solves the quadratic equation for the x‘s:
+Write a C++ program called `quadratic.cpp` that solves the quadratic equation for the x‘s :
 
-![Quadratic formula](./image/formula.PNG)
+![Quadratic formula](./image/formula.PNG) 
